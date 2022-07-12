@@ -27,7 +27,7 @@ function Login() {
     <>
       <section className='Heading'>
         <h1>
-          <FaSignInAlt/> Login
+          <FaSignInAlt style={{paddingRight:"10px"}}/> Login
         </h1>
         <p>Login and start setting tasks</p>
       </section>
